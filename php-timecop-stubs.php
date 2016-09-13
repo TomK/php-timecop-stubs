@@ -2,15 +2,15 @@
 
 /**
  * Time travel to specified timestamp and freeze
- * @param number $timestamp
+ * @param int $timestamp
  */
-function timecop_freeze($timestamp = null) {}
+function timecop_freeze($timestamp) {}
 
 /**
  * Time travel to specified timestamp
- * @param number $timestamp
+ * @param int $timestamp
  */
-function timecop_travel($timestamp = null) {}
+function timecop_travel($timestamp) {}
 
 /**
  * Return to unspecified timestamp
