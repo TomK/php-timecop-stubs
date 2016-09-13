@@ -1,0 +1,7 @@
+{
+  "name": "tomk/php-timecop-stubs",
+  "description": "Stubs for hnw/php-timecop",
+  "require": {
+    "ext-timecop": "*"
+  }
+}
